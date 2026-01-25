@@ -41,6 +41,11 @@ Want to be part of the **BookFlix Official** family? Join our Telegram channel t
 
 In the channel description, you will find an invitation to our discussion group and topics to chat, give feedback, and help us build the future of the app.
 
+---
+
+### **☕️ Donate a coffee to keep us active**
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M61SZPE0)
+
 <!-- ---
 
 ### **🚀 Demo**
