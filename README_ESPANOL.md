@@ -38,6 +38,11 @@
 
 En la descripción del canal, encontrarás una invitación a nuestro grupo de discusión y temas para charlar, dar tu opinión y ayudarnos a construir el futuro de la aplicación.
 
+---
+
+### **☕️ Dona un café para mantenernos activos**
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M61SZPE0)
+
 <!-- ---
 
 ### **🚀 Demo**
