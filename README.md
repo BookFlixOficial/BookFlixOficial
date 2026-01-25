@@ -2,7 +2,7 @@
 
 ### **📖 Sobre o Projeto**
 
-O **BookFlix Oficial** é um aplicativo mobile focado em democratizar o acesso à leitura. Ele permite que usuários leiam e compartilhem livros nos formatos **PDF, EPUB e MOBI** de forma totalmente gratuita.
+O **BookFlix Oficial** é um aplicativo mobile focado em democratizar o acesso à leitura. Ele permite que usuários leiam e compartilhem livros de forma totalmente gratuita.
 
 **Status:** No momento, o projeto está em **fase de desenvolvimento** inicial. Estamos trabalhando duro para trazer a melhor experiência para você! 🚀
 
@@ -10,18 +10,17 @@ O **BookFlix Oficial** é um aplicativo mobile focado em democratizar o acesso �
 
 ### **💡 Nossas Funcionalidades**
 
-* Leitura de livros nos formatos **PDF, EPUB e MOBI** compatíveis.
+* Leitura de livros disponíveis em nosso acervo.
 * Compartilhamento de livros na comunidade. 🤝
-* Modo de leitura online (liberado por anúncios). 📱
-* Modo de leitura offline (liberado com pontos de anúncios). 🔋
+* Salvar livros favoritos.
 
 ---
 
 ### **🎯 Regras de Negócio**
 
 * O acesso à plataforma é **totalmente gratuito**.
-* Para leitura online, você assiste a um anúncio e ganha **5 minutos de leitura**.
-* Para ler offline, você acumula pontos assistindo a anúncios quando estiver online, e depois troca por minutos de leitura offline!
+* Para ter acesso você precisará criar uma conta simples, com email e senha ou através do vínculo com Gmail.
+* Se encontrar algum erro, bug, qualquer coisa que afete o app, você poderá reportar no nosso grupo do Telegram, que se encontra mais abaixo, mas futuramente será implementado um fluxo de report de bugs.
 
 ---
 
