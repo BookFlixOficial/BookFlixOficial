@@ -2,7 +2,8 @@
 
 ### **👉 Languages**
 - [Português](README.md) 
-- [English](README_ENGLISH.md)
+- [Inglês](README_ENGLISH.md)
+- [Espanhol](README_ESPANOL.md)
 
 ### **📖 Sobre o Projeto**
 
