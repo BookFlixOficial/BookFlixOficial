@@ -1,5 +1,9 @@
 # BookFlix Oficial 📚✨
 
+### **👉 Languages**
+- [Português](README.md) 
+- [English](README_ENGLISH.md)
+
 ### **📖 Sobre o Projeto**
 
 O **BookFlix Oficial** é um aplicativo mobile focado em democratizar o acesso à leitura. Ele permite que usuários leiam e compartilhem livros de forma totalmente gratuita.
