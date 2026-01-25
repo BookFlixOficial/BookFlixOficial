@@ -28,7 +28,7 @@
 
 * Si encuentras algún error, fallo o cualquier cosa que afecte a la app, puedes reportarlo en nuestro grupo de Telegram, que se encuentra más abajo. Sin embargo, implementaremos un proceso de reporte de errores próximamente.
 
---
+---
 
 ### **🤝 ¡Únete a nuestra comunidad!**
 
