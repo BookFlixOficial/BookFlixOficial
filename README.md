@@ -1,6 +1,6 @@
 # BookFlix Oficial 📚✨
 
-### **👉 Languages**
+### **👉 Linguagens**
 - [Português](README.md) 
 - [Inglês](README_ENGLISH.md)
 - [Espanhol](README_ESPANOL.md)
