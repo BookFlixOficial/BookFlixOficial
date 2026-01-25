@@ -37,6 +37,11 @@ Quer fazer parte da família **BookFlix Oficial**? Participe do nosso canal no T
 
 Na descrição do canal, você encontrará um convite para o nosso grupo de discussão e tópicos para conversar, dar feedback e ajudar a gente a construir o futuro do aplicativo.
 
+---
+
+### **☕️ Doe um café para nos mantermos ativos**
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M61SZPE0)
+
 <!-- ---
 
 ### **🚀 Demo**
